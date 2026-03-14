@@ -73,3 +73,5 @@ The project includes plots of:
 * Cross-stock volatility persistence
 
 These illustrate key stylized facts of financial markets including heavy tails and volatility clustering.
+
+
